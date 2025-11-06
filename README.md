@@ -1,4 +1,4 @@
-# Hi I'm Allen
+# 💫 About Me:
 🔭 I’m currently working on SQL data analysis projects — transforming raw data into clean, insightful dashboards<br><br>🤝 I’m looking to collaborate on data cleaning, visualization, and SQL automation projects<br><br>🧠 I’m currently learning Power BI, Python, and advanced SQL techniques at Colaberry School of Data Analytics<br><br>💬 Ask me about SQL queries, data modeling, and database optimization<br><br>⚡ Fun fact: I love breaking down messy datasets just to rebuild them better
 
 
